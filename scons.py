@@ -1,4 +1,4 @@
-"""Run SCons from the NVDA source environment.
+"""Run SCons from the NVDA source environment. where is it?
 """
 
 import sys
